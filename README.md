@@ -24,8 +24,8 @@ to identify behavioral patterns and preferences.
 
 ## How to Run
 1. Clone the repository
-2. Open `scripts/analysis.R` in R or RStudio
+2. Open `Analysis.R` in R or RStudio
 3. Run the script (CSV path is relative)
 
 ## Libraries
-tidyverse, corrplot, cluster, factoextra, car
+tidyverse, corrplot, cluster, factoextra
